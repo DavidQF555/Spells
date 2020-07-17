@@ -1,0 +1,7 @@
+name: Spells
+main: me.david.Spells.Main
+version: 1
+commands:
+    spell:
+      description: Gives a Spell
+      usage: /<command> <args>
