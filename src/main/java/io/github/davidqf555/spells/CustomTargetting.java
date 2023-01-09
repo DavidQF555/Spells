@@ -1,4 +1,4 @@
-package me.david.Spells;
+package io.github.davidqf555.spells;
 
 import java.util.ArrayList;
 import java.util.List;

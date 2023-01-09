@@ -1,5 +1,5 @@
 name: Spells
-main: me.david.Spells.Main
+main: io.github.davidqf555.spells.Main
 version: 1
 commands:
     spell:
