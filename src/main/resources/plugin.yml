@@ -2,6 +2,6 @@ name: Spells
 main: io.github.davidqf555.spells.Main
 version: 1.0
 commands:
-    spell:
-      description: Gives a Spell
-      usage: /<command> <args>
+  spell:
+    description: Gives a Spell
+    usage: /<command> <args>
