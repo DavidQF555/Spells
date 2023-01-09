@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.davidqf555.spells</groupId>
     <artifactId>Spells</artifactId>
-    <version>V1</version>
+    <version>1.0</version>
 
     <repositories>
         <repository>
