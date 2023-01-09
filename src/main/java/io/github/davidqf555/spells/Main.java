@@ -47,7 +47,7 @@ public class Main extends JavaPlugin implements Listener {
         Player player = (Player) sender;
         if (player != null) {
             String lowerCaseCommand = command.getName().toLowerCase();
-            if (lowerCaseCommand.equals("togglesilverfish")) {
+            if (lowerCaseCommand.equals("spell")) {
                 if (player.isOp()) {
                     if (args.length == 1) {
                         if (args[0].equalsIgnoreCase("Levitation")) {
